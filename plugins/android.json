@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.lazzarini"
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.lazzarini"
+            "PACKAGE_NAME": "com.lazzarini.lazzarini"
         }
     }
 }
